@@ -1,14 +1,14 @@
 import React from 'react';
-import './home.scss';
+import './product.scss';
 
-class HomePage extends React.Component{
+class Product extends React.Component{
   render(){
     return(
       <React.Fragment>
-          Home
+        Product
       </React.Fragment>
     )
   }
 }
 
-export default HomePage
+export default Product

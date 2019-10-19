@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.clearfix{
+ background:#efefef;
+ width:400px;
+
+  .product-image{
+    float: left;
+  }
+
+  .product-detail{
+    float:right;
+  }
+}

@@ -1,14 +1,14 @@
 import React from 'react';
-import './home.scss';
+import './blog.scss';
 
-class HomePage extends React.Component{
+class BlogPage extends React.Component{
   render(){
     return(
       <React.Fragment>
-          Home
+          Blog
       </React.Fragment>
     )
   }
 }
 
-export default HomePage
+export default BlogPage

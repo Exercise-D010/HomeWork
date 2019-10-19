@@ -1,14 +1,14 @@
 import React from 'react';
-import './home.scss';
+import './contact.scss';
 
-class HomePage extends React.Component{
+class ContactPage extends React.Component{
   render(){
     return(
       <React.Fragment>
-          Home
+          Contact
       </React.Fragment>
     )
   }
 }
 
-export default HomePage
+export default ContactPage
